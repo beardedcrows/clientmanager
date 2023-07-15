@@ -4,7 +4,7 @@
     "applinks": {
     },
     "webcredentials": {
-        "apps": ["CLIENTMANAGER.com.github.com/beardedcrows/clientmanager/blob/main"]
+        "apps": ["github.com/beardedcrows/clientmanager/blob/main"]
     },
     "appclips": {
     }
